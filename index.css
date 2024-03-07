@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(184, 67, 102)
+ 
+ }
+ .main{
+    margin:10px 0px 0px 40px;
+    font-weight: bolder;  
+ }
+ table{
+    font-size: small;
+    width: min-content;
+ }
+ .dark{
+    background-color: black;
+    color: white;
+ }
